@@ -1,0 +1,22 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "prompt_toolkit 3.0.43"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "wcwidth"
+  ],
+  "fn": "prompt-toolkit-3.0.43-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "efff2c72ee875dcffbb00de5b159575b",
+  "name": "prompt-toolkit",
+  "sha256": "d6d51f8d1284c73197297b3c62d3248ba1f9d1844357f5c4e68a3cc3d99f5f80",
+  "size": 750690,
+  "subdir": "win-64",
+  "timestamp": 1704404576000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/prompt-toolkit-3.0.43-py312haa95532_0.conda",
+  "version": "3.0.43"
+}
